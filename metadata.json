@@ -1,0 +1,6 @@
+{
+  "name": "Tridial — Real-Time Transaction Graph Fraud Detection",
+  "description": "Multi-page B2B SaaS website for Tridial: Real-time AI transaction-graph modeling to detect account takeover, synthetic identities, and mule networks before settlement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
